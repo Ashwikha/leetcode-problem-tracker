@@ -32,3 +32,24 @@ How to Run
 python main.py
 
 
+## ▶️ How to Run
+
+### Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/leetcode-problem-tracker.git
+```
+
+### Move into project folder
+
+```bash
+cd leetcode-problem-tracker
+```
+
+### Run the application
+
+```bash
+python main.py
+```
+
+
