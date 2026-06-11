@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "two sum",
+        "difficulty": "easy",
+        "category": "arrays",
+        "date_solved": "2026-06-19",
+        "notes": "hashmap"
+    },
+    {
+        "id": 2,
+        "title": "jfurf",
+        "difficulty": "medium",
+        "category": "string",
+        "date_solved": "2026-04-10",
+        "notes": "hfrj"
+    },
+    {
+        "id": 3,
+        "title": "sort array",
+        "difficulty": "hard",
+        "category": "string",
+        "date_solved": "2026-04-22",
+        "notes": "sort the array"
+    }
+]
