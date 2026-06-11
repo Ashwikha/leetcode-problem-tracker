@@ -24,3 +24,9 @@ How to Run
 
 ```bash
 python main.py
+
+Screenshots
+
+Main Menu
+
+![Main Menu](screenshots/menu.png)
